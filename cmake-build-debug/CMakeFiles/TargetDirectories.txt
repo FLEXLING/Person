@@ -1,0 +1,3 @@
+C:/Users/VROOM/CLionProjects/Person/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/VROOM/CLionProjects/Person/cmake-build-debug/CMakeFiles/Person.dir
+C:/Users/VROOM/CLionProjects/Person/cmake-build-debug/CMakeFiles/rebuild_cache.dir
